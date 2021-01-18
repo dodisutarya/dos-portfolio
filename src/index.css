@@ -3,3 +3,33 @@ code {
     monospace;
 }
 
+
+.nav-style {
+  padding: 20px;
+}
+
+/* .nav-style-text {
+  margin-right: 100px;
+} */
+
+.nav-style-text {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.my-info {
+  padding: 100px 0 20px 0;
+  align-content: center;
+}
+
+.align-my-info {
+  padding: 10px;
+}
+
+h2 {
+  padding: 10px;
+}
+
+Image {
+  margin-right: 20px;
+}
